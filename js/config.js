@@ -1,25 +1,25 @@
 const CONFIG = {
-nama: "Zass Desuta", // Nama Store
+nama: "Luxyyofc", // Nama Store
 profil: "https://files.catbox.moe/etyco1.jpeg", // Url Profil
 banner: "https://files.catbox.moe/9gr5z6.jpeg", // Url Banner 
-tentang: "Zass Desuta adalah toko online terpercaya yang telah melayani ribuan pelanggan sejak 2020. Kami menyediakan berbagai produk digital untuk kebutuhan sehari-hari dengan kualitas terbaik dan harga terjangkau.\n\nKomitmen kami adalah memberikan pengalaman berbelanja yang menyenangkan dengan pelayanan terbaik, produk original, dan garansi resmi untuk semua produk yang kami jual.",
-alamat: "Jl. Contoh No. 123, Jakarta, Indonesia",
+tentang: "Luxyyofc adalah toko online terpercaya yang telah melayani ribuan pelanggan sejak 2022. Kami menyediakan berbagai produk digital untuk kebutuhan sehari-hari dengan kualitas terbaik dan harga terjangkau.\n\nKomitmen kami adalah memberikan pengalaman berbelanja yang menyenangkan dengan pelayanan terbaik, produk original, dan garansi resmi untuk semua produk yang kami jual.",
+alamat: "tokyo.jepang",
 sosial_media: {
-  email: "pengen-loli@zass.cloud", // Email
-  youtube: "zassci_desu", // YouTube Username 
-  tiktok: "zass.id", // Tiktok Username 
-  whatsapp: "6288888888", // WhatsApp Number 
-  telegram: "zasstamvan" // Telegram Username
+  email: "xesesow174@mbjork.com", // Email
+  youtube: "yusuf_store400", // YouTube Username 
+  tiktok: "luxyyofc", // Tiktok Username 
+  whatsapp: "6285881606052", // WhatsApp Number 
+  telegram: "Luxyyofc1" // Telegram Username
 },
 payment: {
-  dana: "085298027445", // Payment Dana
-  gopay: "085298027445", // Payment Gopay 
-  ovo: "085298027445", // Payment Ovo 
-  qris: "https://linkqr.kamu.mom" // Url Qris
+  dana: "085770138400", // Payment Dana
+  gopay: "088709764809", // Payment Gopay 
+  ovo: "088709764809", // Payment Ovo 
+  qris: "https://tmpfiles.org/dl/36415687/upload-1777872961133.jpg" // Url Qris
 },
 telegram_api: {
-  bot: "62828278:7678blablabla", // Token bot father
-  chatid: "6118311111" // ID telegram
+  bot: "8430357819:AAGnU1i1fcCw8gsGzolWhwqVmPWR2xOxA5s", // Token bot father
+  chatid: "7735918595" // ID telegram
 },
 }
 
@@ -43,51 +43,9 @@ const productsData = {
                   { "name": "9GB RAM", "price": 9000 },
                   { "name": "10GB RAM", "price": 10000 },
                   { "name": "Unlimited RAM", "price": 13000 }
+                  { "name": "Admin panel", "price": 20000
                 ]
               },
-              {
-                "id": 2,
-                "name": "VPS Kecil",
-                "icon": "fas fa-microchip",
-                "description": "Virtual Private Server murah untuk belajar dan project kecil.",
-                "variants": [
-                  { "name": "1 vCPU / 1GB RAM / 20GB SSD", "price": 25000 },
-                  { "name": "2 vCPU / 2GB RAM / 40GB SSD", "price": 45000 }
-                ]
-              },
-              {
-                "id": 3,
-                "name": "VPS Menengah",
-                "icon": "fas fa-hdd",
-                "description": "VPS menengah dengan performa cukup untuk website atau panel hosting.",
-                "variants": [
-                  { "name": "2 vCPU / 4GB RAM / 80GB SSD", "price": 75000 },
-                  { "name": "4 vCPU / 8GB RAM / 160GB SSD", "price": 135000 }
-                ]
-              },
-              {
-                "id": 4,
-                "name": "Dedicated Server",
-                "icon": "fas fa-database",
-                "description": "Server dedicated dengan performa tinggi, cocok untuk skala besar.",
-                "variants": [
-                  { "name": "8 vCPU / 32GB RAM / 500GB SSD", "price": 450000 },
-                  { "name": "16 vCPU / 64GB RAM / 1TB SSD", "price": 800000 }
-                ]
-              },
-              {
-                "id": 5,
-                "name": "Web Hosting",
-                "icon": "fas fa-globe",
-                "description": "Hosting website dengan panel cPanel / DirectAdmin, cocok untuk pemula.",
-                "variants": [
-                  { "name": "Starter (1GB Storage)", "price": 15000 },
-                  { "name": "Basic (5GB Storage)", "price": 30000 },
-                  { "name": "Pro (10GB Storage)", "price": 50000 }
-                ]
-              }
-            ],
-            "Desain": [
                 {
                     id: 6,
                     name: "Desain Logo",
