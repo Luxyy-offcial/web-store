@@ -83,7 +83,7 @@ const productsData = {
                 "id": 4,
                 "name": "Nokos",
                 "icon": "fas fa-sim-card",
-                "description": "Hosting website dengan panel cPanel / DirectAdmin, cocok untuk pemula.",
+                "description": "Nokos adalah nomor virtual yang bisa digunakan untuk verifikasi akun tanpa perlu kartu SIM fisik. Cocok untuk daftar WhatsApp, Telegram, Instagram, dan berbagai aplikasi lainnya. Praktis, cepat, dan aman digunakan.",
                 "variants": [
                   { "name": "Nokos indonesia", "price": 7000 },
                 ]
