@@ -51,8 +51,11 @@ const productsData = {
                 "icon": "fas fa-user-circle",
                 "description": "Berbagai akun premium dengan harga terjangkau, cocok untuk hiburan dan produktivitas.",
                 "variants": [
-                  { "name": "🎬 Am premium / 1 Bulan / Paket Sharing ", "price": 25000 },
-                  { "name": "2 vCPU / 2GB RAM / 40GB SSD", "price": 45000 }
+                  { "name": "🎬 Am premium / 1 Bulan / Paket Sharing ", "price": 2500 },
+                  { "name": "🎬 Am premium / 1 Tahun / Paket Sharing", "price": 4000 },
+                  { "name": "🎬 Am premium / 1 Bulan / Paket Private", "price": 6000},
+                  { "name": "🎬 Am premium / 1 Tahun / Paket Private / Acc Seler", "price": 7000},
+                  { "name": "🎬 Am premium / 1 Tahun / Paket Private / Acc Buyer", "price": 10000}
                 ]
               },
               {
