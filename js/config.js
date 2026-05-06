@@ -51,7 +51,7 @@ const productsData = {
                 "icon": "fas fa-user-circle",
                 "description": "Berbagai akun premium dengan harga terjangkau, cocok untuk hiburan dan produktivitas.",
                 "variants": [
-                  { "name": "1 vCPU / 1GB RAM / 20GB SSD", "price": 25000 },
+                  { "name": "🎬Am premium / ✨Paket Sharing ", "price": 25000 },
                   { "name": "2 vCPU / 2GB RAM / 40GB SSD", "price": 45000 }
                 ]
               },
