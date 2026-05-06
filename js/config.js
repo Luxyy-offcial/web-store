@@ -31,7 +31,7 @@ const productsData = {
                 "name": "Panel Pterodactyl",
                 "icon": "fas fa-server",
                 "description": "Panel Pterodactyl hosting bot/game dengan performa stabil dan harga terjangkau.",
-                "🎬Alight montion": [
+                "variants": [
                   { "name": "1GB RAM", "price": 1000 },
                   { "name": "2GB RAM", "price": 2000 },
                   { "name": "3GB RAM", "price": 3000 },
