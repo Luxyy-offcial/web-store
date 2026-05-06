@@ -78,6 +78,9 @@ const productsData = {
                   { "name": "Basic (5GB Storage)", "price": 30000 },
                   { "name": "Pro (10GB Storage)", "price": 50000 }
                 ]
+              },
+              {
+              ]
               }
             ],
             "Desain": [
