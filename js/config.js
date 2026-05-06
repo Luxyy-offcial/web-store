@@ -7,7 +7,7 @@ alamat: "Jl. Tokyo, jepang",
 sosial_media: {
   email: "Luxyyofc_admin@gmail.com", // Email
   youtube: "@yusuf_store400", // YouTube Username 
-  tiktok: "@Luxyyofc1", // Tiktok Username 
+  tiktok: "@luxyyofc1", // Tiktok Username 
   whatsapp: "6285881606052", // WhatsApp Number 
   telegram: "Luxyyofc1" // Telegram Username
 },
@@ -53,9 +53,17 @@ const productsData = {
                 "variants": [
                   { "name": "🎬 Am premium / 1 Bulan / Paket Sharing ", "price": 2500 },
                   { "name": "🎬 Am premium / 1 Tahun / Paket Sharing", "price": 4000 },
-                  { "name": "🎬 Am premium / 1 Bulan / Paket Private", "price": 6000},
-                  { "name": "🎬 Am premium / 1 Tahun / Paket Private / Acc Seler", "price": 7000},
-                  { "name": "🎬 Am premium / 1 Tahun / Paket Private / Acc Buyer", "price": 10000}
+                  { "name": "🎬 Am premium / 1 Bulan / Paket Private", "price": 6000 },
+                  { "name": "🎬 Am premium / 1 Tahun / Paket Private / Acc Buyer", "price": 10000},
+                  { "name": "🎨 Canva pro / 1 Bulan", "price": 1500 },
+                  { "name": "🎨 Canva pro / 2 Bulan", "price": 2500 },
+                  { "name": "🎨 Canva pro / 3 Bulan", "price": 3500 },
+                  { "name": "🎨 Canva pro / 4 Bulan", "price": 3000 },
+                  { "name": "🎨 Canva pro / 5 Bulan", "price": 4000 },
+                  { "name": "🎨 Canva pro / 6 Bulan (GARANSI 3 BULAN", "price": 5500 },
+                  { "name": "🎨 Canva pro / 1 Tahun (GARANSI 6 BULAN", "price": 7000 },
+                  { "name": "🎨 Canva pro / 1 Bulan (ADMIN BISA INVITE 50 MEMBER", "price": 10000 },
+                  
                 ]
               },
               {
