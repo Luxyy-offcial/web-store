@@ -75,7 +75,7 @@ const productsData = {
                 "icon": "fas fa-syringe",
                 "description": "Suntik sosmed adalah layanan untuk menambah followers, likes, views, dan engagement di akun media sosial secara cepat. Cocok untuk meningkatkan popularitas dan kepercayaan akun kamu.",
                 "variants": [
-                  { "name": "100 foll ig + 150 like ig (INDONESIA)", "price": 7500 },
+                  { "name": "icon": "fas fa-instagram" "100 foll ig + 150 like ig (INDONESIA)", "price": 7500 },
                   { "name": "200 foll ig + 200 like ig (INDONESIA)", "price": 1500 },
                   { "name": "300 foll ig + 250 like ig (INDONESIA)", "price": 22500},
                   { "name": "400 foll ig + 350 like ig (INDONESIA)", "price": 35000},
