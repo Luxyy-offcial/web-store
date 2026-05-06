@@ -80,8 +80,15 @@ const productsData = {
                 ]
               },
               {
+                "id": 6,
+                "name": "Top Up Game",
+                "icon": "fas fa-plus",
+                "description": "Top Up Game adalah buat game.",
+                "variants": [
+                  {
               ]
               }
+              {
             ],
             "Desain": [
                 {
