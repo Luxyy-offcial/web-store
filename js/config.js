@@ -59,9 +59,9 @@ const productsData = {
                 ]
               },
               {
-                "id": 4,
-                "name": "Dedicated Server",
-                "icon": "fas fa-database",
+                "id": 3,
+                "name": "Suntik Sosmed",
+                "icon": "fas fa-plus",
                 "description": "Server dedicated dengan performa tinggi, cocok untuk skala besar.",
                 "variants": [
                   { "name": "8 vCPU / 32GB RAM / 500GB SSD", "price": 450000 },
