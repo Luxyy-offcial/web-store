@@ -63,7 +63,10 @@ const productsData = {
                   { "name": "🎨 Canva pro / 6 Bulan (GARANSI 3 BULAN", "price": 5500 },
                   { "name": "🎨 Canva pro / 1 Tahun (GARANSI 6 BULAN", "price": 7000 },
                   { "name": "🎨 Canva pro / 1 Bulan (ADMIN BISA INVITE 50 MEMBER", "price": 10000 },
-                  
+                  { "name": "📝 Capcut pro / 7 Hari", "price": 4000 },
+                  { "name": "📝 Capcut pro / 1 Bulan", "price": 8000 },
+                  { "name": "✨ Youtube premium / 1 Bulan", "price": 5000 },
+                  { "name": "✨ Youtube premium / 1 Bulan (BISA ACC BUYER)", "price": 8000 },
                 ]
               },
               {
