@@ -85,9 +85,7 @@ const productsData = {
                 "icon": "fas fa-sim-card",
                 "description": "Hosting website dengan panel cPanel / DirectAdmin, cocok untuk pemula.",
                 "variants": [
-                  { "name": "Starter (1GB Storage)", "price": 15000 },
-                  { "name": "Basic (5GB Storage)", "price": 30000 },
-                  { "name": "Pro (10GB Storage)", "price": 50000 }
+                  { "name": "Nokos indonesia", "price": 7000 },
                 ]
               },
               {
