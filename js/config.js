@@ -47,9 +47,9 @@ const productsData = {
               },
               {
                 "id": 2,
-                "name": "VPS Kecil",
+                "name": "Apk premium",
                 "icon": "fas fa-microchip",
-                "description": "Virtual Private Server murah untuk belajar dan project kecil.",
+                "description": "Berbagai akun premium dengan harga terjangkau, cocok untuk hiburan dan produktivitas.",
                 "variants": [
                   { "name": "1 vCPU / 1GB RAM / 20GB SSD", "price": 25000 },
                   { "name": "2 vCPU / 2GB RAM / 40GB SSD", "price": 45000 }
