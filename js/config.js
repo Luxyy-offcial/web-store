@@ -85,7 +85,7 @@ const productsData = {
                 "icon": "fas fa-plus",
                 "description": "Top Up Game adalah buat game.",
                 "variants": [
-                  {
+                  { "name": "5 Diamond", "price": 1000},
               ]
               }
               {
