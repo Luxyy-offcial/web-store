@@ -200,18 +200,7 @@ const productsData = {
                     variants: [
                         { name: "Template PowerPoint", price: 10000 },
                         { name: "Template Website", price: 30000 },
-                        { name: "Template Sosmed", price: 15000 }
-                    ]
-                },
-                {
-                    id: 15,
-                    name: "Akun Premium",
-                    icon: "fas fa-user-circle",
-                    description: "Berbagai akun premium dengan harga terjangkau, cocok untuk hiburan dan produktivitas.",
-                    variants: [
-                        { name: "Netflix Premium (1 Bulan)", price: 35000 },
-                        { name: "Spotify Premium (1 Bulan)", price: 25000 },
-                        { name: "Canva Pro (1 Bulan)", price: 20000 }
+                        { name: "Template Sosmed", price: 15000 }    
                     ]
                 }
             ]
