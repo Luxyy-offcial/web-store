@@ -59,16 +59,6 @@ const productsData = {
                 ]
               },
               {
-                "id": 3,
-                "name": "VPS Menengah",
-                "icon": "fas fa-hdd",
-                "description": "VPS menengah dengan performa cukup untuk website atau panel hosting.",
-                "variants": [
-                  { "name": "2 vCPU / 4GB RAM / 80GB SSD", "price": 75000 },
-                  { "name": "4 vCPU / 8GB RAM / 160GB SSD", "price": 135000 }
-                ]
-              },
-              {
                 "id": 4,
                 "name": "Dedicated Server",
                 "icon": "fas fa-database",
