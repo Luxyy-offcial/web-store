@@ -6,8 +6,8 @@ tentang: "Luxyyofc adalah toko online terpercaya yang telah melayani ribuan pela
 alamat: "Jl. Tokyo, jepang",
 sosial_media: {
   email: "Luxyyofc_admin@gmail.com", // Email
-  youtube: "yusuf_store400", // YouTube Username 
-  tiktok: "Luxyyofc1", // Tiktok Username 
+  youtube: "@yusuf_store400", // YouTube Username 
+  tiktok: "@Luxyyofc1", // Tiktok Username 
   whatsapp: "6285881606052", // WhatsApp Number 
   telegram: "Luxyyofc1" // Telegram Username
 },
