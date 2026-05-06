@@ -86,10 +86,9 @@ const productsData = {
                 "description": "Top Up Game adalah buat game.",
                 "variants": [
                   { "name": "5 Diamond", "price": 1000},
-              [
               }
-              {
-            ],
+          {
+      ],
             "Desain": [
                 {
                     id: 6,
