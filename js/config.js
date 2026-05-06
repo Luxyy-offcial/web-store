@@ -1,25 +1,25 @@
 const CONFIG = {
 nama: "Zass Desuta", // Nama Store
-profil: "https://files.catbox.moe/etyco1.jpeg", // Url Profil
-banner: "https://files.catbox.moe/9gr5z6.jpeg", // Url Banner 
-tentang: "Zass Desuta adalah toko online terpercaya yang telah melayani ribuan pelanggan sejak 2020. Kami menyediakan berbagai produk digital untuk kebutuhan sehari-hari dengan kualitas terbaik dan harga terjangkau.\n\nKomitmen kami adalah memberikan pengalaman berbelanja yang menyenangkan dengan pelayanan terbaik, produk original, dan garansi resmi untuk semua produk yang kami jual.",
-alamat: "Jl. Contoh No. 123, Jakarta, Indonesia",
+profil: "https://cdn.nekohime.site/file/Q7sZQOGg.png", // Url Profil
+banner: "https://cdn.nekohime.site/file/k626C1dt.jpg", // Url Banner 
+tentang: "Luxyyofc adalah toko online terpercaya yang telah melayani ribuan pelanggan sejak 2020. Kami menyediakan berbagai produk digital untuk kebutuhan sehari-hari dengan kualitas terbaik dan harga terjangkau.\n\nKomitmen kami adalah memberikan pengalaman berbelanja yang menyenangkan dengan pelayanan terbaik, produk original, dan garansi resmi untuk semua produk yang kami jual.",
+alamat: "Jl. Tokyo, jepang",
 sosial_media: {
-  email: "pengen-loli@zass.cloud", // Email
-  youtube: "zassci_desu", // YouTube Username 
-  tiktok: "zass.id", // Tiktok Username 
-  whatsapp: "6288888888", // WhatsApp Number 
-  telegram: "zasstamvan" // Telegram Username
+  email: "Luxyyofc_admin@gmail.com", // Email
+  youtube: "yusuf_store400", // YouTube Username 
+  tiktok: "Luxyyofc1", // Tiktok Username 
+  whatsapp: "6285881606052", // WhatsApp Number 
+  telegram: "Luxyyofc1" // Telegram Username
 },
 payment: {
-  dana: "085298027445", // Payment Dana
-  gopay: "085298027445", // Payment Gopay 
-  ovo: "085298027445", // Payment Ovo 
-  qris: "https://linkqr.kamu.mom" // Url Qris
+  dana: "085770138400", // Payment Dana
+  gopay: "088709764809", // Payment Gopay 
+  ovo: "088709764809", // Payment Ovo 
+  qris: "https://cdn.nekohime.site/file/fwul-I26.jpeg" // Url Qris
 },
 telegram_api: {
-  bot: "62828278:7678blablabla", // Token bot father
-  chatid: "6118311111" // ID telegram
+  bot: "8430357819:AAGnU1i1fcCw8gsGzolWhwqVmPWR2xOxA5s", // Token bot father
+  chatid: "7735918595" // ID telegram
 },
 }
 
