@@ -69,9 +69,9 @@ const productsData = {
                 ]
               },
               {
-                "id": 5,
-                "name": "Web Hosting",
-                "icon": "fas fa-globe",
+                "id": 4,
+                "name": "Nokos",
+                "icon": "fas fa-sim-card",
                 "description": "Hosting website dengan panel cPanel / DirectAdmin, cocok untuk pemula.",
                 "variants": [
                   { "name": "Starter (1GB Storage)", "price": 15000 },
@@ -80,7 +80,7 @@ const productsData = {
                 ]
               },
               {
-                "id": 6,
+                "id": 5,
                 "name": "Top Up Game",
                 "icon": "fas fa-plus",
                 "description": "Top Up Game adalah buat game.",
