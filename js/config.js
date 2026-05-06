@@ -1,5 +1,5 @@
 const CONFIG = {
-nama: "Zass Desuta", // Nama Store
+nama: "Luxyyofc", // Nama Store
 profil: "https://cdn.nekohime.site/file/Q7sZQOGg.png", // Url Profil
 banner: "https://cdn.nekohime.site/file/k626C1dt.jpg", // Url Banner 
 tentang: "Luxyyofc adalah toko online terpercaya yang telah melayani ribuan pelanggan sejak 2020. Kami menyediakan berbagai produk digital untuk kebutuhan sehari-hari dengan kualitas terbaik dan harga terjangkau.\n\nKomitmen kami adalah memberikan pengalaman berbelanja yang menyenangkan dengan pelayanan terbaik, produk original, dan garansi resmi untuk semua produk yang kami jual.",
