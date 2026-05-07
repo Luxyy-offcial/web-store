@@ -87,6 +87,12 @@ const productsData = {
                   { "name": "400 foll ig + 220 like ig (LUAR NEGERI)", "price": 6000},
                   { "name": "500 foll ig + 250 like ig (LUAR NEGERI)", "price": 8000},
                   { "name": "600 foll ig + 300 like ig + 2000 views ig (LUAR NEGERI)", "price": 10000},
+                  { "name": "1000 like ig + 500 views ig [MURAH BANGET]", "price": 2000},
+                  { "name": "2000 like ig + 700 views ig [MURAH BANGET]", "price": 4000},
+                  { "name": "3000 like ig + 800 views ig [MURAH BANGET]", "price": 5000},
+                  { "name": "4000 like ig + 880 views ig [MURAH BANGET]", "price": 6500},
+                  { "name": "5000 like ig + 900 views ig [MURAH BANGET]", "price": 7500},
+                  { "name": "6000 like ig + 1000 views ig [MURAH BANGET]", "price": 8500},
                 ]
               },
               {
