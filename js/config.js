@@ -111,7 +111,7 @@ const productsData = {
                 ]
               },
               {
-                "id": 4,
+                "id": 5,
                 "name": "Nokos",
                 "icon": "fas fa-sim-card",
                 "description": "Nokos adalah nomor virtual yang bisa digunakan untuk verifikasi akun tanpa perlu kartu SIM fisik. Cocok untuk daftar WhatsApp, Telegram, Instagram, dan berbagai aplikasi lainnya. Praktis, cepat, dan aman digunakan.",
@@ -120,7 +120,7 @@ const productsData = {
                 ]
               },
               {
-                "id": 5,
+                "id": 6,
                 "name": "Top Up Game",
                 "icon": "fas fa-gamepad",
                 "description": "Top Up Game adalah buat game.",
@@ -131,7 +131,7 @@ const productsData = {
            ],
             "Desain": [
                 {
-                    id: 6,
+                    id: 7,
                     name: "Desain Logo",
                     icon: "fas fa-pen-nib",
                     description: "Jasa pembuatan logo dengan berbagai gaya desain. Cocok untuk brand, usaha, atau komunitas.",
@@ -145,7 +145,7 @@ const productsData = {
                     ]
                 },
                 {
-                    id: 7,
+                    id: 8,
                     name: "Desain Banner",
                     icon: "fas fa-image",
                     description: "Jasa pembuatan banner untuk promosi usaha, media sosial, atau event.",
@@ -156,7 +156,7 @@ const productsData = {
                     ]
                 },
                 {
-                    id: 8,
+                    id: 9,
                     name: "Desain Poster",
                     icon: "fas fa-scroll",
                     description: "Jasa desain poster kreatif untuk kebutuhan bisnis, acara, atau publikasi.",
@@ -166,7 +166,7 @@ const productsData = {
                     ]
                 },
                 {
-                    id: 9,
+                    id: 10,
                     name: "UI/UX Design",
                     icon: "fas fa-laptop-code",
                     description: "Jasa desain UI/UX untuk website atau aplikasi dengan tampilan modern dan user-friendly.",
@@ -177,7 +177,7 @@ const productsData = {
                     ]
                 },
                 {
-                    id: 10,
+                    id: 11,
                     name: "Desain Kartu Nama",
                     icon: "fas fa-id-card",
                     description: "Jasa desain kartu nama profesional untuk bisnis atau personal branding.",
@@ -189,7 +189,7 @@ const productsData = {
             ],
             "Produk Digital": [
                 {
-                    id: 11,
+                    id: 12,
                     name: "E-Book",
                     icon: "fas fa-book",
                     description: "Koleksi e-book digital dengan berbagai topik menarik, mulai dari bisnis, programming, hingga hobi.",
@@ -200,7 +200,7 @@ const productsData = {
                     ]
                 },
                 {
-                    id: 12,
+                    id: 13,
                     name: "Software & Tools",
                     icon: "fas fa-cogs",
                     description: "Software dan tools digital untuk menunjang pekerjaan maupun kebutuhan kreatif.",
@@ -211,7 +211,7 @@ const productsData = {
                     ]
                 },
                 {
-                    id: 13,
+                    id: 14,
                     name: "Lisensi & Key",
                     icon: "fas fa-key",
                     description: "Produk lisensi resmi dan serial key untuk software pilihan.",
@@ -222,7 +222,7 @@ const productsData = {
                     ]
                 },
                 {
-                    id: 14,
+                    id: 15,
                     name: "Template Digital",
                     icon: "fas fa-file-alt",
                     description: "Template digital untuk desain, presentasi, website, dan media sosial.",
