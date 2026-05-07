@@ -71,9 +71,9 @@ const productsData = {
               },
               {
                 "id": 3,
-                "name": "Suntik Sosmed",
-                "icon": "fas fa-syringe",
-                "description": "Suntik sosmed adalah layanan untuk menambah followers, likes, views, dan engagement di akun media sosial secara cepat. Cocok untuk meningkatkan popularitas dan kepercayaan akun kamu.",
+                "name": "🚀 Suntik Sosmed Instagram",
+                "icon": "fab fa-instagram",
+                "description": "Tingkatkan popularitas akun Instagram kamu dengan layanan followers, likes, views, dan komentar berkualitas. Cocok untuk personal branding, bisnis, content creator, hingga online shop agar akun terlihat lebih aktif, terpercaya, dan menarik perhatian. Proses cepat, aman, dan harga terjangkau 🔥",
                 "variants": [
                   { "name": "👥 100 foll ig + 150 like ig (INDONESIA)", "price": 7500 },
                   { "name": "👥 200 foll ig + 200 like ig (INDONESIA)", "price": 15000 },
@@ -103,11 +103,20 @@ const productsData = {
               },
               {
                 "id": 4,
+                "name": "Suntik sosmed Tiktok",
+                "icon": "fab fa-tiktok",
+                "description": "Boost performa akun TikTok kamu dengan layanan followers, likes, views, share, dan favorit berkualitas. Cocok untuk content creator, bisnis, maupun akun pribadi agar video lebih ramai, terlihat viral, dan meningkatkan engagement. Proses cepat, aman, dan harga bersahabat 🚀.",
+                "variants": [
+                  { "name": "100 foll tt + 120 like tt", "price": 1000},
+                ]
+              },
+              {
+                "id": 4,
                 "name": "Nokos",
                 "icon": "fas fa-sim-card",
                 "description": "Nokos adalah nomor virtual yang bisa digunakan untuk verifikasi akun tanpa perlu kartu SIM fisik. Cocok untuk daftar WhatsApp, Telegram, Instagram, dan berbagai aplikasi lainnya. Praktis, cepat, dan aman digunakan.",
                 "variants": [
-                  { "name": "Nokos indonesia", "price": 7000 },
+                  { "name": "Nokos indonesia", "price": 7000},
                 ]
               },
               {
