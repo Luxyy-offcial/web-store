@@ -126,12 +126,12 @@ const productsData = {
                   { "name": "👍 4000 like tt + 4000 views tt [MURAH MERIAH]", "price": 9000},
                   { "name": "👍 5000 like tt + 5000 views tt [MURAH MERIAH]", "price": 11000},
                   { "name": "👍 6000 like tt + 6000 views tt [MURAH MERIAH]", "price": 15000},
-                  { "name": "👀 1000 views tt", "price [MURAH BANGET]": 1500},
-                  { "name": "👀 2000 views tt", "price [MURAH BANGET]": 2500},
-                  { "name": "👀 3000 views tt", "price [MURAH BANGET]": 3500},
-                  { "name": "👀 4000 views tt", "price [MURAH BANGET]": 4500},
-                  { "name": "👀 5000 views tt", "price [MURAH BANGET]": 5500},
-                  { "name": "👀 6000 views tt", "price [MURAH BANGET]": 6000}
+                  { "name": "👀 1000 views tt [MURAH BANGET]", "price": 1500},
+                  { "name": "👀 2000 views tt [MURAH BANGET]", "price": 2500},
+                  { "name": "👀 3000 views tt [MURAH BANGET]", "price": 3500},
+                  { "name": "👀 4000 views tt [MURAH BANGET]", "price": 4500},
+                  { "name": "👀 5000 views tt [MURAH BANGET]", "price": 5500},
+                  { "name": "👀 6000 views tt [MURAH BANGET]", "price": 6000},
                 ]
               },
               {
