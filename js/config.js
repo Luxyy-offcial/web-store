@@ -107,7 +107,12 @@ const productsData = {
                 "icon": "fab fa-tiktok",
                 "description": "Boost performa akun TikTok kamu dengan layanan followers, likes, views, share, dan favorit berkualitas. Cocok untuk content creator, bisnis, maupun akun pribadi agar video lebih ramai, terlihat viral, dan meningkatkan engagement. Proses cepat, aman, dan harga bersahabat 🚀.",
                 "variants": [
-                  { "name": "100 foll tt + 120 like tt", "price": 1000},
+                  { "name": "100 foll tt + 120 like tt", "price": 12000},
+                  { "name": "200 foll tt + 250 like tt", "price": 20000},
+                  { "name": "300 foll tt + 350 like tt", "price": 30500},
+                  { "name": "400 foll tt + 450 like tt", "price": 39500},
+                  { "name": "500 foll tt + 550 like tt", "price": 47000},
+                  { "name": "600 foll tt + 660 like tt + 1000 views tt", "price": 52000},
                 ]
               },
               {
