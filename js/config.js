@@ -132,6 +132,7 @@ const productsData = {
                   { "name": "👀 4000 views tt [MURAH BANGET]", "price": 4500},
                   { "name": "👀 5000 views tt [MURAH BANGET]", "price": 5500},
                   { "name": "👀 6000 views tt [MURAH BANGET]", "price": 6000},
+                  { name: "Request Custom", price: "Harga sesuai request"},
                 ]
               },
               {
