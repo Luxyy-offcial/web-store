@@ -99,6 +99,7 @@ const productsData = {
                   { "name": "👀 40000 views ig [MURAH BANGET]", "price": 2800},
                   { "name": "👀 50000 views ig [MURAH BANGET]", "price": 3000},
                   { "name": "👀 60000 views ig [MURAH BANGET]", "price": 4500},
+                  { name: "Request Custom", price: "Harga sesuai request"},
                 ]
               },
               {
