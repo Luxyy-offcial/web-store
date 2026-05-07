@@ -131,7 +131,7 @@ const productsData = {
                   { "name": "👀 3000 views tt", "price [MURAH BANGET]": 3500},
                   { "name": "👀 4000 views tt", "price [MURAH BANGET]": 4500},
                   { "name": "👀 5000 views tt", "price [MURAH BANGET]": 5500},
-                  { "name": "👀 6000 views tt", "price [MURAH BANGET]": 6000},
+                  { "name": "👀 6000 views tt", "price [MURAH BANGET]": 6000}
                 ]
               },
               {
