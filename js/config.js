@@ -8,7 +8,7 @@ sosial_media: {
   email: "Luxyyofc_admin@gmail.com", // Email
   youtube: "@yusuf_store400", // YouTube Username 
   tiktok: "@luxyyofc1", // Tiktok Username 
-  whatsapp: "6285881606052", // WhatsApp Number 
+  whatsapp: "62881010025415", // WhatsApp Number 
   telegram: "Luxyyofc1" // Telegram Username
 },
 payment: {
@@ -51,7 +51,10 @@ const productsData = {
                 "icon": "fas fa-user-circle",
                 "description": "Berbagai akun premium dengan harga terjangkau, cocok untuk hiburan dan produktivitas.",
                 "variants": [
-                  { "name": "🎬 Am premium / 1 Bulan / Paket Sharing ", "price": 2500 },
+                  { "name": "🎞️ Netflix / 1 Hari / Paket 1 profile 1 user", "price": 1800 },
+                  { "name": "🎞️ Netflix / 1 Hari / Paket 1 profile 2 user", "price": 1700 },
+                  { name: "Request Custom", price: "Harga sesuai request"},
+                  { "name": "🎬 Am premium / 1 Bulan / Paket Sharing", "price": 2500 },
                   { "name": "🎬 Am premium / 1 Tahun / Paket Sharing", "price": 4000 },
                   { "name": "🎬 Am premium / 1 Bulan / Paket Private", "price": 6000 },
                   { "name": "🎬 Am premium / 1 Tahun / Paket Private / Acc Buyer", "price": 10000},
